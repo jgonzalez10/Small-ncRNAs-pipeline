@@ -1,5 +1,5 @@
 # Small-ncRNAs-pipeline
-This script analyzes Phytophthora infestans small ncRNAs at various stages of its life cycle: 24 hpi, 48 hpi, 72 hpi and in vitro mycelium. 
+This script analyzes _Phytophthora infestans_ small ncRNAs at various stages of its life cycle: 24 hpi, 48 hpi, 72 hpi and in vitro mycelium. 
 This data was originally published by Asman and collaborators (2014). 
 1. Please make sure that you have the following tools installed and working in the computer or cluster where you are running this pipeline: 
 sratoolkit/2.8.1
@@ -17,7 +17,7 @@ It is programmed to download the data sets for testing from NCBI using fastq-dum
 
 5. As well, you will have to modify the parameters for cutadapt depending on your results from fastqc.
 
-6. All required data sets are included in this GitHub page except for _P. infestans_ and S. tuberosum genome sequences, because their file sizes exceeded the capacity of the repository. If required, these are available upon request. However, you can also download these genomes from Ensembl at http://protists.ensembl.org/Phytophthora_infestans/Info/Index and http://plants.ensembl.org/Solanum_tuberosum/Info/Index.
+6. All required data sets are included in this GitHub page except for _Phytophthora infestans_ and _Solanum tuberosum_ genome sequences, because their file sizes exceeded the capacity of the repository. If required, these are available upon request. However, you can also download these genomes from Ensembl at http://protists.ensembl.org/Phytophthora_infestans/Info/Index and http://plants.ensembl.org/Solanum_tuberosum/Info/Index.
 These genomes were downloaded in FASTA format and used without any alteration.
 
 Please feel free to ask any questions! (j.gonzalez10@uniandes.edu.co)
