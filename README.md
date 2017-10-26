@@ -17,5 +17,8 @@ It is programmed to download the data sets for testing from NCBI using fastq-dum
 
 5. As well, you will have to modify the parameters for cutadapt depending on your results from fastqc.
 
+6. All required data sets are included in this GitHub page except for P. infestans and S. tuberosum genome sequences, because their file sizes exceeded the capacity of the repository. If required, these are available upon request. However, you can also download these genomes from Ensembl at http://protists.ensembl.org/Phytophthora_infestans/Info/Index and http://plants.ensembl.org/Solanum_tuberosum/Info/Index.
+These genomes were downloaded in FASTA format and used without any alteration.
+
 Please feel free to ask any questions! (j.gonzalez10@uniandes.edu.co)
 
