@@ -1,4 +1,4 @@
-# Small-ncRNAs-pipeline
+# Small-ncRNAs-pipeline_Pinfestans
 This script analyzes _Phytophthora infestans_ small ncRNAs at various stages of its life cycle: 24 hpi, 48 hpi, 72 hpi and in vitro mycelium. 
 This data was originally published by Asman and collaborators (2014). 
 1. Please make sure that you have the following tools installed and working in the computer or cluster where you are running this pipeline: 
